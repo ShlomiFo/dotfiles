@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mm12g1@gmail.com
+	name = shlomi fogel
